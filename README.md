@@ -1,3 +1,4 @@
+(click on and view as CODE not preview)
 Example JSON File for translation data
 {
   "passages": {
