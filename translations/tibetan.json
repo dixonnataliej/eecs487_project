@@ -1,0 +1,36 @@
+{
+  "passages": {
+    "1": {
+      "english": "In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.",
+      "official": "",
+      "chatgpt": "",
+      "google": "ཐོག་མར་དཀོན་མཆོག་གིས་ནམ་མཁའ་དང་ས་གཞི་བཀོད་པ༌དང༌། ས་གཞི་དེ་དབྱིབས་མེད་པ་དང་སྟོང་པ་ཉིད་དུ་གནས་ཡོད། མཚོ་གཏིང་ཟབ་པོའི་སྟེང་དུ་མུན་ནག་ཆགས་ཡོད། དཀོན་མཆོག་གི་ཐུགས་ཉིད་ཆུའི་སྟེང་དུ་གཡོ་འགུལ་བྱེད་དོ། དཀོན་མཆོག་གིས་“འོད་འབྱུང་བར་ཤོག”ཅེས་གསུངས་པ་དང་། དཀོན་མཆོག་གིས་འོད་དེ་ཡག་པོ་ཡིན་པར་གཟིགས་ནས་འོད་དང་མུན་པ་གཉིས་དབྱེ་བར་མཛད། དཀོན་མཆོག་གིས་འོད་ལ་ཉིན་མོ་དང་མུན་ནག་ལ་མཚན་མོ་ཞེས་བཏགས་སོ། ཕྱི་དྲོ་དང་ཞོགས་པ་བྱུང་བ་ནི་ཉིན་དང་པོ་ཡིན་ནོ།",
+      "roundtrip_chatgpt": "",
+      "roundtrip_google": "In the beginning God created the heavens and the earth. The earth remains formless and void. It was dark over the deep sea. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day."
+    },
+    "2": {
+      "english": "The LORD is my shepherd; I shall not want. He maketh me to lie down in green pastures: He leadeth me beside the still waters. He restoreth my soul: He leadeth me in the paths of righteousness for his name's sake. Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; Thy rod and thy staff they comfort me. Thou preparest a table before me in the presence of mine enemies: Thou anointest my head with oil; my cup runneth over. Surely goodness and mercy shall follow me all the days of my life: And I will dwell in the house of the LORD for ever.",
+      "official": "",
+      "chatgpt": "",
+      "google": "གཙོ་བོ་དཀོན་མཆོག་ངའི་ལུག་རྫི་ཡིན། ང་ལ་དགོས་ཀྱི་མ་རེད། ཁོང་གིས་ང་ལ་རྩྭ་ཐང་སྔོ་ལྗང་ཅན་དུ་ཉལ་བར་མཛད། ཁོང་གིས་ངའི་སེམས་ལ་སླར་གསོ་གནང་ཞིང་། ཁོང་གི་མིང་གི་ཆེད་དུ་ཁོང་གིས་ང་ལ་དྲང་བདེན་གྱི་ལམ་ལ་འཁྲིད་གནང་། ང་འཆི་བའི་གྲིབ་ནག་གི་ལུང་གཤོངས་བརྒྱུད་ནས་འགྲོ་ནའང་། ཁྱེད་ཀྱི་དབྱུག་པ་དང་དབྱུག་པས་ང་ལ་སེམས་གསོ་གནང་།ཁྱེད་ཀྱིས་ངའི་དགྲ་བོ་རྣམས་ཀྱི་མདུན་དུ་ངའི་མདུན་དུ་མཆོད་ཁྲི་གྲ་སྒྲིག་གནང་ཞིང་། ངའི་ཕོར་པ་འཕྱུར་སོང་། ངའི་མི་ཚེ་གཅིག་གི་རིང་ལ་བཟང་པོ་དང་བྱམས་བརྩེ་ངའི་རྗེས་སུ་འབྲང་བར་འགྱུར།",
+      "roundtrip_chatgpt": "",
+      "roundtrip_google": "The Lord is my shepherd. I don't want to. He makes me lie down in green pastures. He has restored my heart. He leads me in the paths of righteousness for His name's sake. Even if I walk through the valley of the shadow of death, I am not afraid of evil. Comfort me with your rod and your staff. You have prepared an altar for me in the presence of my enemies. My cup spilled. May goodness and mercy follow me all the days of my life;"
+    },
+    "3": {
+      "english": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. For God sent not his Son into the world to condemn the world; but that the world through him might be saved.",
+      "official": "",
+      "chatgpt": "",
+      "google": "དཀོན་མཆོག་གིས་འཇིག་རྟེན་ལ་བྱམས་པ་ཆེན་པོ་མཛད་པས་རང་གི་སྲས་གཅིག་པུ་གནང་བའི་ཕྱིར་ཁོང་ལ་དད་པ་བྱེད་མཁན་ཐམས་ཅད་འཆི་བར་མི་འགྱུར་བར་མཐའ་མེད་པའི་ཚེ་ཐོབ་པའི་ཕྱིར་རོ།། དཀོན་མཆོག་གིས་རང་གི་སྲས་འཇིག་རྟེན་དུ་མངགས་ནས་འཇིག་རྟེན་ལ་ཁྲིམས་གཅོད་བྱེད་པའི་ཕྱིར་མ་ཡིན་ནོ། འཇིག་རྟེན་འདི་ཁོང་བརྒྱུད་ནས་ཐར་པ་ཐོབ་པའི་ཆེད་དུ་ཡིན།",
+      "roundtrip_chatgpt": "",
+      "roundtrip_google": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. For God sent not his Son into the world to condemn the world; That the world might be saved through Him."
+    },
+    "4": {
+      "english": "And I began the journey of rediscovering the value of sleep. And in the course of that, I studied, I met with medical doctors, scientists, and I'm here to tell you that the way to a more productive, more inspired, more joyful life is getting enough sleep. And we women are going to lead the way in this new revolution, this new feminist issue. ",
+      "official": "དེ་ནས་ངས་གཉིད་ཀྱི་རིན་ཐང་བསྐྱར་རྙེད་བྱེད་པའི་འགྲུལ་བཞུད་ཀྱི་འགོ་བཙུགས་པ་རེད།བརྒྱུད་རིམ་དེའི་ཁྲོད་དུ།ངས་སློབ་སྦྱོང་བྱས་པ་དང་།སྨན་པ་དང་ཚན་རིག་པར་ཐུག་པ་ཡིན།ངས་འདིར་བརྗོད་རྒྱུར།མི་ཚེ་དོན་ཕན་ལྡན་པ་ཞིག་དང་།སེམས་འགུལ་ཐེབས་པ།སྤྲོ་བ་ཆེ་བའི་ལམ་ནི་གཉིད་འདང་ངེས་ཤིག་ཁུག་རྒྱུ་དེ་རེད།ང་ཚོ་བུད་མེད་ཚོས་གསར་བརྗེ་གསར་པ་འདི་དང་བུད་མེད་ཀྱི་གནད་དོན་འདིའི་འགོ་འཁྲིད་ཀྱི་ཡིན།",
+      "chatgpt": "",
+      "google": "དེ་ནས་ངས་གཉིད་ཀྱི་རིན་ཐང་བསྐྱར་དུ་རྙེད་པའི་འགྲུལ་བཞུད་འགོ་བཙུགས་པ་རེད། དེའི་སྐབས་ལ་ངས་སློབ་སྦྱོང་བྱས་པ་དང་། སྨན་པ་དང་ཚན་རིག་པ་ཚོ་དང་མཇལ་འཛོམས་གནང་བ་དང་། ང་འདིར་ཁྱེད་ལ་ཐོན་སྐྱེད་ཆེ་བ་དང་། ང་ཚོ་བུད་མེད་ཚོས་གསར་བརྗེ་གསར་པ་འདིའི་ནང་ལམ་སྟོན་བྱེད་རྒྱུ་ཡིན་པ་དང་།",
+      "roundtrip_chatgpt": "",
+      "roundtrip_google": "Then I began my journey of rediscovering the value of sleep. I studied during that time. He met with doctors and scientists. I’m here for you to be more productive, more productive. We women are going to lead the way in this new revolution, and we are going to lead the way."
+    }
+  }
+}

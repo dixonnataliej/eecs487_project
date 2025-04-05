@@ -1,0 +1,3 @@
+wolof: passages 1-3 = bible. passage 4 = tuberculosis, from wikimedia parallel corpora, text characteristics: medical, informative.
+malay: passages 1-3 = bible. passage 4 = covid, from wikipedia health opus. text characteristics: informative, news, somewhat health related
+tibetan: passages 1-3 bible. passage 4 = value of sleep, from ted talk on opus. text characteristics: somewhat conversational, first person. pronoun errors in gtranslate roundtrip.
