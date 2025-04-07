@@ -2,3 +2,6 @@ wolof: passages 1-3 = bible. passage 4 = tuberculosis, from wikimedia parallel c
 malay: passages 1-3 = bible. passage 4 = covid, from wikipedia health opus. text characteristics: informative, news, somewhat health related
 tibetan: passages 1-3 bible. passage 4 = value of sleep, from ted talk on opus. text characteristics: somewhat conversational, first person. pronoun errors in gtranslate roundtrip.
 nahuatl: passages 1-3 = bible. passage 4 = first verse of mexican national anthem, nahuatl translation taken from Método auto-didáctico náhuatl-español (book)
+
+passage 5: from course syllabus, honor code
+passage 6: from yelp.csv, positive restaurant review (for Wolof Chatgpt hallucinated music)
