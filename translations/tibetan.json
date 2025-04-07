@@ -3,13 +3,7 @@
     "1": {
       "english": "In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.",
       "official": "",
-      "chatgpt": "འགོ་བོར་ འདུས་བྱེད་མི་ཡི་ལྷ་ མཁའ་དང་ས་ཡོངས་སྤྱད་པར་བཟོ། །
-ས་ནི་རྣམ་མེད་དང་སྟོང་པ་བཟུང་། མཐའ་མེད་འཛམ་བུའི་མཚོ་མཚམས་ལ་ནག་པོ་ཡོད། །
-ལྷའི་རྣམ་པར་གཟིགས་པ་མཚོ་ལ་འཕྱུང་བར་འགྱོ། །
-ལྷས་ཞུས་པ་ནི། འོད་ཤོག་ཞེས་ འོད་འདི་འོང་། །
-ལྷས་འོད་དེ་བལྟས་པར་དགའ་བ་སྟེ། ལྷས་ནག་པོ་ནས་འོད་འདི་སོན། །
-ལྷས་འོད་ལ་ཉི་མ་ཞེས་བཀོད། ནག་པོ་ལ་མཚན་མོ་ཞེས་བཀོད། །
-དགུང་དང་ཞོགས་ཀྱིས་ཉི་མ་དང་པོ་འགྱུར་བ་འདུག །",
+      "chatgpt": "འགོ་བོར་ འདུས་བྱེད་མི་ཡི་ལྷ་ མཁའ་དང་ས་ཡོངས་སྤྱད་པར་བཟོ། ། ས་ནི་རྣམ་མེད་དང་སྟོང་པ་བཟུང་། མཐའ་མེད་འཛམ་བུའི་མཚོ་མཚམས་ལ་ནག་པོ་ཡོད། ། ལྷའི་རྣམ་པར་གཟིགས་པ་མཚོ་ལ་འཕྱུང་བར་འགྱོ། ། ལྷས་ཞུས་པ་ནི། འོད་ཤོག་ཞེས་ འོད་འདི་འོང་། ། ལྷས་འོད་དེ་བལྟས་པར་དགའ་བ་སྟེ། ལྷས་ནག་པོ་ནས་འོད་འདི་སོན། ། ལྷས་འོད་ལ་ཉི་མ་ཞེས་བཀོད། ནག་པོ་ལ་མཚན་མོ་ཞེས་བཀོད། ། དགུང་དང་ཞོགས་ཀྱིས་ཉི་མ་དང་པོ་འགྱུར་བ་འདུག །",
       "google": "ཐོག་མར་དཀོན་མཆོག་གིས་ནམ་མཁའ་དང་ས་གཞི་བཀོད་པ༌དང༌། ས་གཞི་དེ་དབྱིབས་མེད་པ་དང་སྟོང་པ་ཉིད་དུ་གནས་ཡོད། མཚོ་གཏིང་ཟབ་པོའི་སྟེང་དུ་མུན་ནག་ཆགས་ཡོད། དཀོན་མཆོག་གི་ཐུགས་ཉིད་ཆུའི་སྟེང་དུ་གཡོ་འགུལ་བྱེད་དོ། དཀོན་མཆོག་གིས་“འོད་འབྱུང་བར་ཤོག”ཅེས་གསུངས་པ་དང་། དཀོན་མཆོག་གིས་འོད་དེ་ཡག་པོ་ཡིན་པར་གཟིགས་ནས་འོད་དང་མུན་པ་གཉིས་དབྱེ་བར་མཛད། དཀོན་མཆོག་གིས་འོད་ལ་ཉིན་མོ་དང་མུན་ནག་ལ་མཚན་མོ་ཞེས་བཏགས་སོ། ཕྱི་དྲོ་དང་ཞོགས་པ་བྱུང་བ་ནི་ཉིན་དང་པོ་ཡིན་ནོ།",
       "roundtrip_chatgpt": "",
       "roundtrip_google": "In the beginning God created the heavens and the earth. The earth remains formless and void. It was dark over the deep sea. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day."
