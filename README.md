@@ -1,6 +1,17 @@
-Example JSON File for translation data
+# Analyzing Google Translate and ChatGPT Translation of Low-Resource Languages
 
-```{
+This project evaluates translation quality for a selection of low-resource languages using both neural machine translation systems (ChatGPT, Google Translate) and human-translated texts. Our primary goal is to assess one-way and round-trip translation fidelity and syntactic consistency across multiple domains and languages.
+
+We focus on five languages: **Wolof**, **Tibetan**, **Malay**, **Quechua**, and **Nahuatl**, with **Spanish** serving as a baseline.
+
+## 📁 Translations
+
+The `translations/` folder contains a `.json` file for each language with all evaluated texts. Each entry includes the original English passage, its machine translation into the target language, and the corresponding reverse (round-trip) translation back to English.
+
+### Example JSON File Structure
+
+```json
+{
   "passages": {
     "1": {
       "english": "In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.",
@@ -9,23 +20,36 @@ Example JSON File for translation data
       "google": "Google Translate translation of passage 1 in Wolof",
       "roundtrip_chatgpt": "Back-translated English from ChatGPT's version",
       "roundtrip_google": "Back-translated English from Google Translate's version"
-    },
-    "2": {
-      "english": "The LORD is my shepherd; I shall not want. He maketh me to lie down in green pastures: He leadeth me beside the still waters. He restoreth my soul: He leadeth me in the paths of righteousness for his name's sake. Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; Thy rod and thy staff they comfort me. Thou preparest a table before me in the presence of mine enemies: Thou anointest my head with oil; my cup runneth over. Surely goodness and mercy shall follow me all the days of my life: And I will dwell in the house of the LORD for ever.",
-      "official": "Wolof official translation of passage 2",
-      "chatgpt": "ChatGPT translation of passage 2 in Wolof",
-      "google": "Google Translate translation of passage 2 in Wolof",
-      "roundtrip_chatgpt": "Back-translated English from ChatGPT's version",
-      "roundtrip_google": "Back-translated English from Google Translate's version"
-    },
-    "3": {
-      "english": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. For God sent not his Son into the world to condemn the world; but that the world through him might be saved.",
-      "official": "Wolof official translation of passage 3",
-      "chatgpt": "ChatGPT translation of passage 3 in Wolof",
-      "google": "Google Translate translation of passage 3 in Wolof",
-      "roundtrip_chatgpt": "Back-translated English from ChatGPT's version",
-      "roundtrip_google": "Back-translated English from Google Translate's version"
     }
   }
 }
 ```
+## 📁 Bibles
+
+Contains aligned Bible passages in English and target languages, used as our primary parallel corpus. See the evaluation notebooks for specific verses and alignment strategies.
+
+## 📁 Notebooks
+
+FIXME
+- `project.ipynb`: Main notebook that loads and prepares data for evaluation.
+- `evaluation.ipynb`: Computes BLEU and METEOR scores for round-trip translation quality.
+- `syntax_trees.ipynb`: Compares syntactic structures between original and round-trip English outputs.
+- `BLEU.ipynb`: Contains early evaluations and debugging steps for select language pairs.
+
+## 📄 Scripts
+FIXME
+- `translation_loader.py`: Utility to parse and load translation JSON data into usable Python structures.
+
+## 🔧 Dependencies
+
+TBD — To be filled in by team members.
+
+## 📈 Evaluation Metrics
+
+TBD — Include a description of how BLEU, METEOR, and syntactic analysis are used.
+
+## 📚 Acknowledgements
+
+We used datasets from OPUS and the Axolotl Corpus. For full citations, see the final report and referenced publications.
+
+
