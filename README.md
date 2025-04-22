@@ -30,7 +30,7 @@ Contains aligned Bible passages in English and target languages, used as our pri
 
 ## 📁 Notebooks
 
-- `project.ipynb`: Main notebook that loads and prepares data for evaluation.
+- `embeddings.ipynb`: Computes text embedding scores.
 - `evaluation.ipynb`: Computes BLEU and METEOR scores for round-trip translation quality.
 - `syntax_trees.ipynb`: Compares syntactic structures between original and round-trip English outputs.
 - `BLEU.ipynb`: Contains early evaluations and debugging steps for select language pairs.
