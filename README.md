@@ -30,26 +30,13 @@ Contains aligned Bible passages in English and target languages, used as our pri
 
 ## 📁 Notebooks
 
-FIXME
 - `project.ipynb`: Main notebook that loads and prepares data for evaluation.
 - `evaluation.ipynb`: Computes BLEU and METEOR scores for round-trip translation quality.
 - `syntax_trees.ipynb`: Compares syntactic structures between original and round-trip English outputs.
 - `BLEU.ipynb`: Contains early evaluations and debugging steps for select language pairs.
 
-## 📄 Scripts
-FIXME
-- `translation_loader.py`: Utility to parse and load translation JSON data into usable Python structures.
-
-## 🔧 Dependencies
-
-TBD — To be filled in by team members.
-
-## 📈 Evaluation Metrics
-
-TBD — Include a description of how BLEU, METEOR, and syntactic analysis are used.
-
 ## 📚 Acknowledgements
 
-We used datasets from OPUS and the Axolotl Corpus. For full citations, see the final report and referenced publications.
+We used datasets from OPUS and the Axolotl Corpus. For full citations, see the final report.
 
 
